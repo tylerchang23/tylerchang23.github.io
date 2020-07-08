@@ -111,11 +111,10 @@ author:
   bio              : "Data Science Portfolio"
   location         : "San Francisco, CA"
   email            : "tcchang@ucdavis.edu"
-  github           : "tylerchang23"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "tcchang@ucdavis.edu"
+      #url: "tcchang@ucdavis.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
